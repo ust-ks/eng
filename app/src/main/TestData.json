@@ -1,0 +1,70 @@
+{
+  "name": "Data",
+  "dictionaries": [
+    {
+      "name":"Цвета (1 уровень)"
+    },
+
+    {
+      "name":"Цвета (2 уровень)"
+    },
+
+    {
+      "name":"Цвета (3 уровень)"
+    }
+  ],
+
+  "words": [
+    {
+      "dirId": "1",
+      "word": "red",
+      "translation": "красный"
+    },
+    {
+      "dirId": "1",
+      "word": "blue",
+      "translation": "синий"
+    },
+    {
+      "dirId": "1",
+      "word": "green",
+      "translation": "зеленый"
+    },
+    {
+      "dirId": "1",
+      "word": "black",
+      "translation": "черный"
+    },
+    {
+      "dirId": "2",
+      "word": "brown",
+      "translation": "коричневый"
+    },
+    {
+      "dirId": "2",
+      "word": "orange",
+      "translation": "оранжевый"
+    },
+    {
+      "dirId": "2",
+      "word": "light blue",
+      "translation": "голубой"
+    },
+    {
+      "dirId": "3",
+      "word": "maruun",
+      "translation": "бордовый"
+    },
+    {
+      "dirId": "1",
+      "word": "crimson",
+      "translation": "малиновый"
+    },
+    {
+      "dirId": "1",
+      "word": "turquoise",
+      "translation": "бирюзовый"
+    }
+  ]
+
+}

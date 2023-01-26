@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SP</string>
+
+    <string name="logo">SPACED REPETITIONS</string>
+    <string name="add_dir">Добавить словарь</string>
+    <string name="my_dirs">Мои словари:</string>
+
+    <string name="repetition">Начать повторение</string>
+    <string name="add_word">Добавить слово</string>
+
+    <string name="settings">Расписание повторений</string>
+
+    <string name="catalog">Каталог словарей</string>
+
+    <string name="name_new_dir">Название нового словаря:</string>
+    <string name="back">ОТМЕНА</string>
+    <string name="ok">ГОТОВО</string>
+    <string name="find_dir">Найти готовый словарь</string>
+
+    <string name="word">Слово:</string>
+    <string name="translate">Перевод:</string>
+
+    <string name="hint2"> Нажмите на экран чтобы перевернуть карточку </string>
+    <string name="result"> Итог: </string>
+    <string name="again"> Пройти тест заново </string>
+    <string name="complete"> Завершить </string>
+
+    <string name="edit"> Редактировать </string>
+
+    <string name="noDir"> У вас еще нет словарей. Создайте свой первый словарь или добавьте готовый из каталога! </string>
+
+    <string name="add_this_dir"> Добавить к себе </string>
+    <string name="title_activity_open_dir2">OpenDirActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="no_word"> В словаре еще нет слов :( </string>
+
+    <string name="new_name"> Новое имя словаря: </string>
+    <string name="delete_dir"> УДАЛИТЬ СЛОВАРЬ</string>
+
+    <string name="question1"> Вы правда хотите удалить этот словарь? </string>
+    <string name="question2"> Удалить слово? </string>
+    <string name="no"> НЕТ </string>
+    <string name="yes"> ДА </string>
+
+    <string name="name_dir"> Словарь </string>
+    <string name="current_time"> Текущее время след. повторения: </string>
+
+    <string name="channel_name"> myChannel </string>
+    <string name="channel_description"> myChannelDescription </string>
+
+</resources>

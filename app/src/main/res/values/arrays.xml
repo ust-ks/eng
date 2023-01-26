@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dirs">
+
+        <item>Большой словарь прилагательных</item>
+        <item>Глаголы</item>
+        <item>Животные и птицы</item>
+        <item>Времена года и цвета</item>
+
+    </string-array>
+</resources>
